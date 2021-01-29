@@ -16,7 +16,7 @@ import Plotly and iPython for Scientific Graphing
 https://www.youtube.com/watch?v=zG8FYPFU9n4
 
 
-#understanding sets, dataframe, list
+#understanding sets, dataframe, list #Create DataFrameConversion.py
 https://datatofish.com/convert-pandas-dataframe-to-list/
 import pandas as pd
 
