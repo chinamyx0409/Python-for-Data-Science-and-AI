@@ -1,4 +1,7 @@
-# coursera_DataScience
+Python for Data Science and AI
+https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome
+
+
 Refer to below gist for data science courses
 
 https://gist.github.com/chinamyx0409
